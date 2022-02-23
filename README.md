@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Babar Afzaal</h1>
 <h3 align="center">Fullstack PHP and Javascript Developer from Pakistan</h3>
 
-- 💬 Ask me about **PHP | Javascript | Laravel | Codeigniter | Wordpress | Shopware | Symphony | MySQL | React Js | Vue Js | Nuxt Js | Node Js | Typescript | HTML5 | CSS | GraphQL | JQuery | RESTful services and JSON | Composer | ES6 | GIT | CI/CD | Jenkins | Docker | PHPUnit Testing | AWS | Solidity | Web3 Js | Guzzle | Swagger | Webpack | MVC | Agile**
+- 💬 Ask me about **Javascript (5 years of project experience) | PHP (5) | Typescript (1) | Laravel (5) | Codeigniter (5) | Wordpress (2) | Shopware (1) | Symphony (1) | MySQL (5) | React.js (2) | Vue.js (3) | Nuxt.js (2) | Node.js (1) | HTML(5) | CSS (5) | GraphQL (2) | JQuery (5) | RESTful HTTP + JSON (4) | Composer (5) | ES6 (3) | GIT (4) | CI/CD (2) | Jenkins (2) | Docker (1) | PHPUnit Testing (2) | AWS (4) | Guzzle (4) | Swagger (3) | Webpack (4) | MVC (5) | Agile (5)**
 
 
 - 🌱 I’m currently learning **Solidity, Web3.js**
